@@ -1,0 +1,23 @@
+{
+  "name": "@reinvent/changelog",
+  "version": "1.0.0",
+  "description": "Library to handle with changelog and version bump of Reinvent Inc",
+  "main": "index.js",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "conventional-changelog",
+    "conventionalcommits.org",
+    "preset"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "compare-func": "^2.0.0",
+    "lodash": "^4.17.15",
+    "q": "^1.5.1"
+  }
+}
