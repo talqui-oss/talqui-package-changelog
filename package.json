@@ -1,7 +1,7 @@
 {
-  "name": "@reinvent/changelog",
+  "name": "@talqui-oss/changelog",
   "version": "1.0.0",
-  "description": "Library to handle with changelog and version bump of Reinvent Inc",
+  "description": "Library to handle with changelog and version bump of Talqui",
   "main": "index.js",
   "repository": {
     "type": "git"
